@@ -1,4 +1,4 @@
-![App Logo](A sleek, modern logo for an AI-powered tool.png)
+![App Logo](logo.png)
 
 # Text-to-Image App
 
