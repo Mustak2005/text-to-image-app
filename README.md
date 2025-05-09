@@ -1,3 +1,5 @@
+![App Logo](A sleek, modern logo for an AI-powered tool.png)
+
 # Text-to-Image App
 
 A simple React app that converts English and Telugu text prompts into AI-generated images.
